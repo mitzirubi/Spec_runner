@@ -13,8 +13,7 @@ Feel free to use any string methods you wish.
 var printLetter1 = function () { 
 	console.log("This is working!");
 	//You will need this string
-  
-
+  	
   return 'print the fourth letter in this string'[3];
 };
 
