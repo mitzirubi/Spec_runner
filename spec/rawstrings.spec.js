@@ -23,7 +23,7 @@ describe('Concatenating strings with bridgeString1', function () {
   'use strict';
 
   var testString1 = 'Javascript is so much fun, ';
-  var testString2 = 'I wish I could code  in javascript all day, every day!'
+  var testString2 = 'I wish I could code in javascript all day, every day!'
 
 
 

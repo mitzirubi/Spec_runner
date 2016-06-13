@@ -21,9 +21,11 @@ var printLetter1 = function () {
 Give back ("return") the input string "concatenated" with 
 the raw string provided
 */
-var bridgeString1 = function(myInputString) {
-  
-  
-  return bridgeString1 + 'I wish I could code  in javascript all day, every day!';
 
-};
+var bridgeString1 = function(myInputString) {  
+	
+  
+  return myInputString + 'I wish I could code in javascript all day, every day!'; 
+  // console.log(myInputString + "I wish I could code in javascript all day, every day!"); 
+};  
+  
